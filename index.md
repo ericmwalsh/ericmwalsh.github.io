@@ -11,7 +11,7 @@ layout: default
 
 ##### 2018 November - Joined Ring (Amazon company, NASDAQ: AMZN) as an SDE II.
 
-##### 2016 October - Joined TrueCar (Amazon company, NASDAQ: TRUE) as a (Senior) Software Engineer 4.
+##### 2016 October - Joined TrueCar (ALG team, NASDAQ: TRUE) as a (Senior) Software Engineer 4.
 
 ##### 2016 February - Joined HYFN (on the HYFN8 side) as a Senior Software Engineer.
 
