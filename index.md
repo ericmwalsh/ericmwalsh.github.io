@@ -4,4 +4,19 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-## hey
+
+<title>Software Engineer</title>
+
+## Software Engineer, Problem Solver
+
+##### 2018 November - Joined Ring (Amazon company, NASDAQ: AMZN) as an SDE II.
+
+##### 2016 October - Joined TrueCar (Amazon company, NASDAQ: TRUE) as a (Senior) Software Engineer 4.
+
+##### 2016 February - Joined HYFN (on the HYFN8 side) as a Senior Software Engineer.
+
+##### 2014 December - Joined Spinlister (Santa Monica startup, Airbnb for bikes) as a Software Engineer.
+
+##### 2014 June - Joined AmericasPrinter (Family-owned printing company) as a Software Engineer.
+
+##### 2013 June - Joined Broadview Mortgage Corporation (Family-owned mortgage company) as a Software Engineer (intern).

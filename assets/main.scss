@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+footer .social-media-list > li {
+  display: inline-block;
+  /* You can also add some margins here to make it look prettier */
+  zoom:1;
+  *display:inline;
+  /* this fix is needed for IE7- */
+}
+
+footer .social-media-list .svg-icon {
+  transform: scale(1.8);
+  margin: .5em;
+}
