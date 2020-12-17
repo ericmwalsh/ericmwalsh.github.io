@@ -9,7 +9,7 @@ layout: default
 
 ## Software Engineer, Problem Solver
 
-##### 2020 November - Transferred internally to Amazon Music Podcasts (Amazon company, NASDAQ: AMZN) as an SDE II.
+##### 2020 July - Transferred internally to Amazon Music (Amazon company, NASDAQ: AMZN), Podcasts team, as an SDE II.
 
 ##### 2018 November - Joined Ring (Amazon company, NASDAQ: AMZN) as an SDE II.
 
