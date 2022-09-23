@@ -9,7 +9,7 @@ layout: default
 
 ## Software Engineer, Problem Solver
 
-##### 2022 July - Currently back on the job market, looking for new software engineer and architecural challenges.
+##### 2022 September - Currently back on the job market, looking for new software engineering and architecural challenges.
 
 ##### 2020 July - Transferred internally to Amazon Music (Amazon company, NASDAQ: AMZN), Podcasts team, as an SDE II.
 
