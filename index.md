@@ -24,3 +24,4 @@ layout: default
 ##### 2014 June - Joined AmericasPrinter (Family-owned printing company) as a Software Engineer.
 
 ##### 2013 June - Joined Broadview Mortgage Corporation (Family-owned mortgage company) as a Software Engineer (intern).
+ 
